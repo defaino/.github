@@ -1,4 +1,4 @@
-DeFaino Protocol
+#DeFaino Protocol
 
 Welcome to our GitHub organization, where we specialize in creating a innovative decentralised lendig platform for digital assets!
 
@@ -19,5 +19,5 @@ Key Lending Protocol Functionality:
 - Repay assets with additional interest
 - If collateral ratio is exceeding 100% (borrowed more than allowed) the position will be liquidated by third party, loan will be partially repaid, collateral will be withdrawn by the third party
 
-Website
+#Website
 You can access our store website here: https://defaino.com/marketplace
