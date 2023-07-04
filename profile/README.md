@@ -20,7 +20,4 @@ Key Lending Protocol Functionality:
 - If collateral ratio is exceeding 100% (borrowed more than allowed) the position will be liquidated by third party, loan will be partially repaid, collateral will be withdrawn by the third party
 
 Website
-You can access our store website here
-
-Gitbook Documentation
-Gitbook documentation of the first version can help you better understand the purpose of each service.
+You can access our store website here: https://defaino.com/marketplace
